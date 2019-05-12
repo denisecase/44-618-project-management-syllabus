@@ -47,7 +47,7 @@ h2 {
 
 h3 {
   margin-top: 2rem;
-  color: rgb(121, 121, 121);
+  color: rgb(83, 83, 83);
 }
 
 .img-thumbnail {
@@ -61,6 +61,7 @@ code {
 
 .bg-nw-green {
   background-color: #006747 !important;
+  color: white;
 }
 
 .highlight {
