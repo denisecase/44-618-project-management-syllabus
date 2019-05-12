@@ -23,7 +23,6 @@
 * [Google Analytics](https://analytics.google.com/analytics/web/)
 * [Material Design Bootstrap CDN](https://mdbootstrap.com/md-bootstrap-cdn/)
 * [W3C Markup Validation Service](https://validator.w3.org/)
-* [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator)
 
 ## Getting Started
 
