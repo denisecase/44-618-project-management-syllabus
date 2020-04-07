@@ -1,4 +1,4 @@
-# [44-618 Project Management Syllabus](https://profcase.github.io/44-618-project-management-syllabus)
+# [44-618 Project Management Syllabus](https://denisecase.github.io/44-618-project-management-syllabus)
 
 [![Dependency Status](https://img.shields.io/david/nodejs/nodejs.org.svg)](https://david-dm.org/nodejs/nodejs.org)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -10,8 +10,8 @@
 
 ## Links
 
-* Site: <https://profcase.github.io/44-618-project-management-syllabus>
-* Source: <https://github.com/profcase/44-618-project-management-syllabus>
+* Site: <https://denisecase.github.io/44-618-project-management-syllabus>
+* Source: <https://github.com/denisecase/44-618-project-management-syllabus>
 
 ## Recommended
 
